@@ -31,6 +31,12 @@ This project is a clone of the popular Flappy Bird game. The player controls a b
 3. Avoid the pipes and try to get the highest score possible.
 4. Click the restart button to play again after a game over.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/3412c204-ac5a-42db-9417-76e87c975343
+
+
 ## Code Overview
 
 ### Main Game Loop
